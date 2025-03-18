@@ -1,5 +1,6 @@
 # Student-Performance-EDA
 ### Student Performance Exploratory Data Analysis
+https://github.com/M-Snowy/Student-Performance-EDA/blob/main/Students%20Perfomance%20data%20EDA.sql
 
 ### Project Objectives
 The goal of this analysis is to examine student performance data to identify key factors that influence academic success. By applying data cleaning, and  exploratory data analysis (EDA), the goal is to uncover meaningful patterns and insights that can guide interventions to improve student outcomes.
