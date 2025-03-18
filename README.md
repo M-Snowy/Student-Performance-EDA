@@ -1,5 +1,5 @@
-# Student-Performance-EDA SQL
-### Student Performance Exploratory Data Analysis
+# Student-Performance-EDA 
+### Student Performance Exploratory Data Analysis SQL
 https://github.com/M-Snowy/Student-Performance-EDA/blob/main/Students%20Perfomance%20data%20EDA.sql
 
 ### Project Objectives
